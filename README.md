@@ -37,7 +37,7 @@ An adaptive OTA (Over-the-Air) deployment system for remotely updating firmware 
 🔹 Tech Stack:
 Node.js, Docker, IoT Communication, REST APIs  
 
-🔗 [View Project]()  
+🔗 [View Project](https://github.com/ShashankHegde-svg/iot_ota_project.git)  
 
 ### 🆘 ReliefHands
 A platform designed to coordinate relief efforts efficiently by connecting volunteers, donors, and affected communities.
