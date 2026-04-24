@@ -50,7 +50,7 @@ A platform designed to coordinate relief efforts efficiently by connecting volun
 🔹 Tech Stack:
 Node.js, Express.js, MongoDB, REST APIs  
 
-🔗 [View Project](#)  <!-- replace with your repo link -->
+🔗 [View Project](https://github.com/sumit-chillal/ReliefHands.git)  
 ---
 
 ### 🔄 FeedLoop
